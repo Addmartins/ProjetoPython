@@ -1,0 +1,10 @@
+data,funcionario,turno,pacotes,horas,atrasos
+2026-10-20,Ana,Manha,240,6,2
+2026-10-20,Carlos,Manha,180,6,5
+2026-10-20,Joao,Tarde,210,6,3
+2026-10-21,Ana,Manha,270,6,1
+2026-10-21,Carlos,Manha,150,6,8
+2026-10-21,Joao,Tarde,240,6,2
+2026-10-22,Ana,Manha,255,6,2
+2026-10-22,Carlos,Manha,195,6,4
+2026-10-22,Joao,Tarde,180,6,6
